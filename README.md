@@ -29,7 +29,7 @@ Encoded:	6cdd596b8f5642cbd23b47981a65422a
 Decoded:	0001000101a198afda78173486153566
 
 Testing Performance...
-100000 rounds: 			1.402	seconds
+100000 rounds:          1.402	seconds
 Encryptions per second: 71326	rounds
 ~~~
 
