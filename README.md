@@ -32,4 +32,4 @@ Testing Performance...
 100000 rounds:          1.402	seconds
 Encryptions per second: 71326	rounds
 ~~~
-
+Run on MacBook Air with Apple M2 chip and 16GB RAM.
